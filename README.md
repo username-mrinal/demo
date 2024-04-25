@@ -1,4 +1,4 @@
 # demo
 just a test
 <br>
-Author - Mrinal
+Author - Mrinal (owner)
